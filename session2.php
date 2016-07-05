@@ -4,7 +4,7 @@ session_start();
 <!DOCTYPE html>
 <html>
 <body>
-
+Hola Sergio
 <?php
 if(!isset($_SESSION["contador"])){
 	$_SESSION["contador"] = 0;
